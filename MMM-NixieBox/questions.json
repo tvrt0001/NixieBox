@@ -1,0 +1,405 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+      "correct_answer": "Crete",
+      "incorrect_answers": [ "Sardinia", "Sicily", "Cyprus" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many people can you recruit in the game Suikoden in a single playthrough?",
+      "correct_answer": "107",
+      "incorrect_answers": [ "108", "93", "96" ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+      "correct_answer": "The Vikings ",
+      "incorrect_answers": [ "The Long Ships", "Prince Valiant", "Spartacus" ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who played Agent Fox Mulder in the TV sci-fi drama &quot;The X-Files&quot;?",
+      "correct_answer": "David Duchovny",
+      "incorrect_answers": [ "Gillian Anderson", "Robert Patrick", "Mitch Pileggi" ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The idea of Socialism was articulated and advanced by whom?",
+      "correct_answer": "Karl Marx",
+      "incorrect_answers": [ "Vladimir Lenin", "Joseph Stalin", "Vladimir Putin" ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which species of Brown Bear is not extinct?",
+      "correct_answer": "Syrian Brown Bear",
+      "incorrect_answers": [ "California Grizzly Bear", "Atlas Bear", "Mexican Grizzly Bear" ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many dots are on a single die?",
+      "correct_answer": "21",
+      "incorrect_answers": [ "24", "15", "18" ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The Kingdom of Prussia briefly held land in Estonia.",
+      "correct_answer": "False",
+      "incorrect_answers": [ "True" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Undertale&quot;, how many main endings are there?",
+      "correct_answer": "3",
+      "incorrect_answers": [ "2", "5", "13" ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The land of Gotland is located in which European country?",
+      "correct_answer": "Sweden",
+      "incorrect_answers": [ "Denmark", "Norway", "Germany" ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+      "correct_answer": "Isuzu Trooper",
+      "incorrect_answers": [ "Holden Monaro", "Suzuki Swift", "Chevy Camaro" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a &quot;dakimakura&quot;?",
+      "correct_answer": "A body pillow",
+      "incorrect_answers": [ "A Chinese meal, essentially composed of fish", "A yoga posture", "A word used to describe two people who truly love each other" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Luigi is taller than Mario?",
+      "correct_answer": "True",
+      "incorrect_answers": [ "False" ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The United States Department of Homeland Security was formed in response to the September 11th attacks.",
+      "correct_answer": "True",
+      "incorrect_answers": [ "False" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+      "correct_answer": "Shiatsu",
+      "incorrect_answers": [ "Ukiyo", "Majime", "Ikigai" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [ "True" ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+      "correct_answer": "Jack and Jill",
+      "incorrect_answers": [ "The Girl with the Dragon Tattoo", "Thor", "The King&#039;s Speech" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the creator of the Super Smash Bros. Series?",
+      "correct_answer": "Masahiro Sakurai",
+      "incorrect_answers": [ "Reggie Fils-Aim&eacute;", "Bill Trinen", "Hideo Kojima" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.",
+      "correct_answer": "True",
+      "incorrect_answers": [ "False" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By how many minutes are you late to work in &quot;Half-Life&quot;?",
+      "correct_answer": "30",
+      "incorrect_answers": [ "5", "60", "15" ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these songs is NOT included in the Suicide Squad OST?",
+      "correct_answer": "Skies on Fire - AC\/DC",
+      "incorrect_answers": [ "Heathens - Twenty One Pilots", "Without Me - Eminem", "Fortunate Son - Creedence Clearwater Revival" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "When you cry in space, your tears stick to your face.",
+      "correct_answer": "True",
+      "incorrect_answers": [ "False" ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who recorded the album called &quot;Down to the Moon&quot; in 1986?",
+      "correct_answer": "Andreas Vollenweider",
+      "incorrect_answers": [ "Jean-Michel Jarre", "Bing Crosby", "Enya" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?",
+      "correct_answer": "Malva",
+      "incorrect_answers": [ "Siebold", "Wikstrom", "Drasna" ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these bands is the oldest?",
+      "correct_answer": "Pink Floyd",
+      "incorrect_answers": [ "AC\/DC", "Metallica", "Red Hot Chili Peppers" ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the designation given to the Marvel Cinematic Universe?",
+      "correct_answer": "Earth-199999",
+      "incorrect_answers": [ "Earth-616", "Earth-10005", "Earth-2008" ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+      "correct_answer": "Nick Offerman",
+      "incorrect_answers": [ "Liam Neeson", "Morgan Freeman", "Will Arnet" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year were screenshots added to Steam?",
+      "correct_answer": "2011",
+      "incorrect_answers": [ "2010", "2008", "2009" ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
+      "correct_answer": "Howard Stern",
+      "incorrect_answers": [ "Rush Limbaugh", "Pete Tong", "Ryan Seacrest" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?",
+      "correct_answer": "The Falador Massacre",
+      "incorrect_answers": [ "Noclip glitch", "Party-hat Duplication Glitch", "TzHaar Massacre" ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these Disney shows is classified as an anime?",
+      "correct_answer": "Stitch!",
+      "incorrect_answers": [ "Cory in the House", "The Emperor&#039;s New School", "Hannah Montana" ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ikki Kurogane is known by what nickname at the beginning of &quot;Chivalry of a Failed Knight&quot;?",
+      "correct_answer": "Worst One",
+      "incorrect_answers": [ "Another One", "Blazer", "Princess" ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of Michael Jackson&#039;s albums sold the most copies?",
+      "correct_answer": "Thriller",
+      "incorrect_answers": [ "Dangerous", "Bad", "Off the Wall" ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Kublai Khan is the grandchild of Genghis Khan?",
+      "correct_answer": "True",
+      "incorrect_answers": [ "False" ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+      "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+      "incorrect_answers": [ "Former Marine Fleet Admiral Sengoku", "Pirate King Gol D Roger", "Silvers Rayleigh" ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
+      "correct_answer": "Sandy&#039;s Treedome",
+      "incorrect_answers": [ "&quot;The Dome&quot;", "Sandy&#039;s Bubble", "Auquatic Reseach Centre" ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [ "IBM", "Microsoft", "Google" ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+      "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+      "incorrect_answers": [ "Cristiano Ronaldo los Santos Diego", "Cristiano Armando Diego Ronaldo", "Cristiano Luis Armando Ronaldo" ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+      "correct_answer": "&quot;So long, and thanks for all the fish.&quot;",
+      "incorrect_answers": [ "&quot;The answer is 42.&quot;", "&quot;Land of the brave.&quot;", "&quot;Goodbye cruel world!&quot;" ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+      "correct_answer": "Roy Harper",
+      "incorrect_answers": [ "Black Canary", "Emiko Queen", "Dick Grayson" ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The majority of Subaru vehicles are made in China.",
+      "correct_answer": "False",
+      "incorrect_answers": [ "True" ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "From which country does the piano originate?",
+      "correct_answer": "Italy",
+      "incorrect_answers": [ "Germany", "Austria", "France" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is credited with having created the world&#039;s first video game Easter Egg?",
+      "correct_answer": "Warren Robinett",
+      "incorrect_answers": [ "Julius Smith", "Will Crowther", "Don Woods" ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Liam Howlett founded which electronic music group in 1990?",
+      "correct_answer": "The Prodigy",
+      "incorrect_answers": [ "The Chemical Brothers", "The Crystal Method", "Infected Mushroom" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+      "correct_answer": "Tommy Vercetti",
+      "incorrect_answers": [ "Michael de Santa", "Franklin Clinton", "Trevor Phillips" ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the UEFA Champions League in 2017?",
+      "correct_answer": "Real Madrid C.F.",
+      "incorrect_answers": [ "Atletico Madrid", "AS Monaco FC", "Juventus F.C." ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+      "correct_answer": "Annie",
+      "incorrect_answers": [ "Veigar", "Tristana", "Lulu" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.",
+      "correct_answer": "True",
+      "incorrect_answers": [ "False" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+      "correct_answer": "Adam the Clown",
+      "incorrect_answers": [ "Cliff Hudson", "The convicts", "Larry the butcher" ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following characters is NOT playable in &quot;Resident Evil 6&quot;?",
+      "correct_answer": "Jill Valentine",
+      "incorrect_answers": [ "Chris Redfield", "Sherry Birkin", "Helena Harper" ]
+    }
+  ]
+}

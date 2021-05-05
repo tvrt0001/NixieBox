@@ -1,0 +1,11 @@
+// Get https://
+// PostT https://
+
+###
+Get https://opentdb.com/api.php?amount=50&type=multiple
+###
+
+GET /?search=cat&category=entertainment&type=multiple&difficulty=medium&limit=10
+Host: ip:port
+Connection: keep-alive
+cache-control: no-cache

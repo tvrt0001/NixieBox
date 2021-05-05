@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "pio",
+			"path": "..\\pio"
+		},
+		{
+			"name": "gameshow-js",
+			"path": "..\\gameshow-js"
+		},
+		{
+			"name": "MMM-NixieBox",
+			"path": "..\\MMM-NixieBox"
+		},
+		{
+			"name": "magicmirror",
+			"path": "..\\magicmirror"
+		},
+		{
+			"name": "travis-CI-Nixie",
+			"path": "..\\travis-CI-Nixie"
+		},
+		{
+			"name": "vscode",
+			"path": "..\\vscode"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

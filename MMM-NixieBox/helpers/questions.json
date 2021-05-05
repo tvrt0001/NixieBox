@@ -1,0 +1,465 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is not a wind instrument?",
+      "correct_answer": "Viola",
+      "incorrect_answers": ["Oboe", "Trombone", "Duduk"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+      "correct_answer": "Dirk the Daring",
+      "incorrect_answers": ["Arthur", "Sir Toby Belch", "Guy of Gisbourne"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is the longest bone in the human body? ",
+      "correct_answer": "Femur",
+      "incorrect_answers": ["Scapula", "Fibula", "Ulna"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+      "correct_answer": "Pancreas",
+      "incorrect_answers": ["Kidney", "Liver", "Brain"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which European city has the highest mileage of canals in the world?",
+      "correct_answer": "Birmingham",
+      "incorrect_answers": ["Venice", "Amsterdam", "Berlin"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+      "correct_answer": "Hunter S. Thompson",
+      "incorrect_answers": [
+        "F. Scott Fitzgerald",
+        "Henry Miller",
+        "William S. Burroughs"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In baseball, how many fouls are an out?",
+      "correct_answer": "0",
+      "incorrect_answers": ["5", "3", "2"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these countries is NOT located in Africa?",
+      "correct_answer": "Suriname",
+      "incorrect_answers": ["Burkina Faso", "Mozambique", "Algeria"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?",
+      "correct_answer": "White",
+      "incorrect_answers": ["Black", "Blue", "Yellow"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+      "correct_answer": "Constantinople",
+      "incorrect_answers": [
+        "H&uuml;davendigar",
+        "S&ouml;\u011f&uuml;t",
+        "Adrianople"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "EDM record label Monstercat is based in which country?",
+      "correct_answer": "Canada",
+      "incorrect_answers": ["United States", "Australia", "United Kingdom"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which part of the body does glaucoma affect?",
+      "correct_answer": "Eyes",
+      "incorrect_answers": ["Throat", "Stomach", "Blood"]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The stop motion comedy show &quot;Robot Chicken&quot; was created by which of the following?",
+      "correct_answer": "Seth Green",
+      "incorrect_answers": ["Seth MacFarlane", "Seth Rogen", "Seth Rollins"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+      "correct_answer": "The Shining",
+      "incorrect_answers": [
+        "2001: A Space Odyssey",
+        " Dr. Strangelove ",
+        "Eyes Wide Shut"
+      ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Variable Valve Timing technology is used by BMW?",
+      "correct_answer": "VANOS",
+      "incorrect_answers": ["VVT-iw", "VVEL", "MultiAir"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who tutored Alexander the Great?",
+      "correct_answer": "Aristotle",
+      "incorrect_answers": ["Socrates", "Plato", "King Philip"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a dead mall?",
+      "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+      "incorrect_answers": [
+        "A mall with no stores",
+        "A mall that has been condemed",
+        "A mall after business hours"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+      "correct_answer": "Reactivity",
+      "incorrect_answers": ["Health", "Flammability", "Radioactivity"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The key of sharps does the key of G# minor contain?",
+      "correct_answer": "5",
+      "incorrect_answers": ["3", "7", "0"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The first version of Blockland came out in which year?",
+      "correct_answer": "2004",
+      "incorrect_answers": ["2007", "2008", "2006"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+      "correct_answer": "Arbok",
+      "incorrect_answers": ["Linoone", "Tauros", "Nidoking"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Radiohead&#039;s first album?",
+      "correct_answer": "Pablo Honey",
+      "incorrect_answers": ["The Bends", "Kid A", "A Moon Shaped Pool"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the busiest port in Europe?",
+      "correct_answer": "Port of Rotterdam",
+      "incorrect_answers": [
+        "Port of Antwerp",
+        "Port of Hamburg",
+        "Port of Amsterdam"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?",
+      "correct_answer": "Solid Snake",
+      "incorrect_answers": ["Pit", "Meta Knight", "R.O.B."]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+      "correct_answer": "Jules Bianchi",
+      "incorrect_answers": [
+        "Ayrton Senna",
+        "Ronald Ratzenberger",
+        "Gilles Villeneuve"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term GPU stand for?",
+      "correct_answer": "Graphics Processing Unit",
+      "incorrect_answers": [
+        "Gaming Processor Unit",
+        "Graphite Producing Unit",
+        "Graphical Proprietary Unit"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?",
+      "correct_answer": "The Falador Massacre",
+      "incorrect_answers": [
+        "Noclip glitch",
+        "Party-hat Duplication Glitch",
+        "TzHaar Massacre"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+      "correct_answer": "Republican",
+      "incorrect_answers": ["Democrat", "Independent", "Whig"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not a character in the Street Fighter series?",
+      "correct_answer": "Mai Shiranui",
+      "incorrect_answers": ["Laura Matsuda", "Sakura Kasugano", "Ibuki"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the RoboSapien toy robot released?",
+      "correct_answer": "2004",
+      "incorrect_answers": ["2000", "2001", "2006"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+      "correct_answer": "Lamentation",
+      "incorrect_answers": [
+        "Galvanized Atomic Lead Insertion Liquidator",
+        "Gabig",
+        "Predictive Death Wish"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "correct_answer": "Non-impact printer",
+      "incorrect_answers": [
+        "Impact printer",
+        "Daisywheel printer",
+        "Dot matrix printer"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of Cream the Rabbit&#039;s mom in the &quot;Sonic the Hedgehog&quot; series?",
+      "correct_answer": "Vanilla",
+      "incorrect_answers": ["Peach", "Strawberry", "Mint"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
+      "correct_answer": "Devil May Cry 3: Dante&#039;s Awakening ",
+      "incorrect_answers": [
+        "Devil May Cry 4",
+        "Devil May Cry",
+        "Devil May Cry 2"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the colossal titan in &quot;Attack On Titan&quot;?",
+      "correct_answer": "Bertolt Hoover",
+      "incorrect_answers": ["Reiner", "Eren", "Sasha"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the main antagonists in Battlestar Galactica?",
+      "correct_answer": "The Cylons",
+      "incorrect_answers": ["The Collective", "The Federation", "The Rebels"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who created the &quot;Metal Gear&quot; Series?",
+      "correct_answer": "Hideo Kojima",
+      "incorrect_answers": [
+        "Hiroshi Yamauchi",
+        "Shigeru Miyamoto",
+        "Gunpei Yokoi"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+      "correct_answer": "Californian",
+      "incorrect_answers": ["Carpathia", "Cristol", "Commerce"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+      "correct_answer": "Dinah",
+      "incorrect_answers": ["Oscar", "Heath", "Smokey"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the real name of &quot;Warhead&quot; in the Sega Genesis game &quot;Vectorman&quot;?",
+      "correct_answer": "Raster",
+      "incorrect_answers": ["Peacehead", "Vectorkid", "Bitmap"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "&quot;The A Team&quot; first aired in the USA and in the UK in what year?",
+      "correct_answer": "1983",
+      "incorrect_answers": ["1981", "1985", "1987"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Zodiac symbol for Gemini?",
+      "correct_answer": "Twins",
+      "incorrect_answers": ["Fish", "Scales", "Maiden"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these Movies was NOT released in 1996?",
+      "correct_answer": "Gladiator",
+      "incorrect_answers": [
+        "Independence Day",
+        "The Rock",
+        "Mission: Impossible"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Bon Iver&#039;s debut album released in 2007?",
+      "correct_answer": "For Emma, Forever Ago",
+      "incorrect_answers": [
+        "Bon Iver, Bon Iver",
+        "22, A Million",
+        "Blood Bank EP"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Terran units from the RTS game Starcraft was first introduced in the expansion Brood War?",
+      "correct_answer": "Medic",
+      "incorrect_answers": ["Wraith", "Science Vessel", "SCV"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The &#039;64&#039; in the Nintendo-64 console refers to what?",
+      "correct_answer": "The bits in the CPU architecture",
+      "incorrect_answers": [
+        "The number of megabytes of RAM",
+        "Capacity of the ROM Cartridges in megabytes",
+        "Clock speed of the CPU in Hertz"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?",
+      "correct_answer": "Bro",
+      "incorrect_answers": ["Becquerel", "Doc Scratch", "Halley"]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+      "correct_answer": "Testarossa",
+      "incorrect_answers": ["Enzo Ferrari", "F40", "288 GTO"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+      "correct_answer": "The HECU",
+      "incorrect_answers": ["Navy Seals", "The Combine", "The Marines"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video game franchise &quot;Halo&quot;, what is the UNSC&#039;s main opposing faction called?",
+      "correct_answer": "The Covenant",
+      "incorrect_answers": ["The Reckoning", "The Peoples", "The Slaughterers"]
+    }
+  ]
+}

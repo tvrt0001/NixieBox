@@ -1,0 +1,24 @@
+| Display   | ESP32   | PIN | Function                    |
+|-----------|---------|-----------------------------------|
+| SCL (RS)  | SCK     | 18  | Serial clock                |
+| SDI       | MOSI    | 23  | Serial data Master -> Slave |
+| SDO       | MISO    | -1  | Serial data Slave -> Master |
+| D/CX (WR) | DC      | 2   | Data / Command register sel |
+| CS(X)     | CS      | 15  | Chip Select (Active Low)    |
+| RST       | RST     | 4   | Reset                       |
+| LED       | BL      | 17  | Reset                       |
+
+
+
+ILI9341_DRIVER=1
+TFT_WIDTH=320
+TFT_HEIGHT=240
+
+TFT_MISO=-1
+TFT_MOSI=23
+TFT_SCLK=18
+TFT_CS=15
+TFT_DC=2
+TFT_RST=4
+TFT_BL=17
+TFT_BACKLIGHT_ON=1

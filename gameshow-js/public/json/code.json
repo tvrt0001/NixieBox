@@ -1,0 +1,605 @@
+{
+      "response_code": 0,
+      "results": [
+            {
+                  "category": "Mythology",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+                  "correct_answer": "Crete",
+                  "incorrect_answers": [
+                        "Sardinia",
+                        "Sicily",
+                        "Cyprus"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "When was the original Star Wars: Battlefront II released?",
+                  "correct_answer": "October 31, 2005",
+                  "incorrect_answers": [
+                        "December 18, 2004",
+                        "November 21, 2006",
+                        "September 9, 2007"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Film",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+                  "correct_answer": "Wilson",
+                  "incorrect_answers": [
+                        "Friday",
+                        "Jones",
+                        "Billy"
+                  ]
+            },
+            {
+                  "category": "Science & Nature",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+                  "correct_answer": "Space",
+                  "incorrect_answers": [
+                        "Science",
+                        "Society",
+                        "Star"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Japanese Anime & Manga",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which anime heavily features music from the genre &quot;Eurobeat&quot;?",
+                  "correct_answer": "Initial D",
+                  "incorrect_answers": [
+                        "Wangan Midnight",
+                        "Kino no Tabi",
+                        "Cowboy Bebop"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which of these levels does NOT appear in the console\/PC versions of the game &quot;Sonic Generations&quot;?",
+                  "correct_answer": "Mushroom Hill",
+                  "incorrect_answers": [
+                        "City Escape",
+                        "Planet Wisp",
+                        "Sky Sanctuary"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+                  "correct_answer": "Lamar",
+                  "incorrect_answers": [
+                        "Trevor",
+                        "Michael",
+                        "Franklin"
+                  ]
+            },
+            {
+                  "category": "Geography",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+                  "correct_answer": "Basque",
+                  "incorrect_answers": [
+                        "Galician",
+                        "Maltese",
+                        "Hungarian"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Music",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "Which of these artists do NOT originate from France?",
+                  "correct_answer": "The Chemical Brothers",
+                  "incorrect_answers": [
+                        "Air",
+                        "Justice",
+                        "Daft Punk"
+                  ]
+            },
+            {
+                  "category": "History",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which of these countries remained neutral during World War II?",
+                  "correct_answer": "Switzerland",
+                  "incorrect_answers": [
+                        "United Kingdom",
+                        "France",
+                        "Italy"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+                  "correct_answer": "Kiefer Sutherland",
+                  "incorrect_answers": [
+                        "David Hayter",
+                        "Norman Reedus",
+                        "Hideo Kojima"
+                  ]
+            },
+            {
+                  "category": "History",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+                  "correct_answer": "Post cards",
+                  "incorrect_answers": [
+                        "Alcohol",
+                        "Cigarettes",
+                        "Sodas "
+                  ]
+            },
+            {
+                  "category": "Entertainment: Film",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+                  "correct_answer": "My Neighbor Totoro",
+                  "incorrect_answers": [
+                        "Hop",
+                        "Rise of the Guardians",
+                        "Alice in Wonderland"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Books",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+                  "correct_answer": "Richard Bachman",
+                  "incorrect_answers": [
+                        "J. D. Robb",
+                        "Mark Twain",
+                        "Lewis Carroll"
+                  ]
+            },
+            {
+                  "category": "Art",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+                  "correct_answer": "Salvador Dali",
+                  "incorrect_answers": [
+                        "Jackson Pollock",
+                        "Vincent van Gogh",
+                        "Edgar Degas"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
+                  "correct_answer": "Thievius Raccoonus",
+                  "incorrect_answers": [
+                        "Raccoon Training 101",
+                        "The Art of Sneak",
+                        "Raccoonus Teachus"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Who is the creator of the Super Smash Bros. Series?",
+                  "correct_answer": "Masahiro Sakurai",
+                  "incorrect_answers": [
+                        "Reggie Fils-Aim&eacute;",
+                        "Bill Trinen",
+                        "Hideo Kojima"
+                  ]
+            },
+            {
+                  "category": "Animals",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "What is the scientific name of the Budgerigar?",
+                  "correct_answer": "Melopsittacus undulatus",
+                  "incorrect_answers": [
+                        "Nymphicus hollandicus",
+                        "Pyrrhura molinae",
+                        "Ara macao"
+                  ]
+            },
+            {
+                  "category": "General Knowledge",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "The term &quot;scientist&quot; was coined in which year?",
+                  "correct_answer": "1833",
+                  "incorrect_answers": [
+                        "1933",
+                        "1942",
+                        "1796"
+                  ]
+            },
+            {
+                  "category": "History",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Bohdan Khmelnytsky was which of the following?",
+                  "correct_answer": "Leader of the Ukrainian Cossacks",
+                  "incorrect_answers": [
+                        "General Secretary of the Communist Party of the USSR",
+                        "Prince of Wallachia",
+                        "Grand Prince of Novgorod"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Japanese Anime & Manga",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Winch of these names are not a character of JoJo&#039;s Bizarre Adventure?",
+                  "correct_answer": "JoJo Kikasu",
+                  "incorrect_answers": [
+                        "Jean-Pierre Polnareff",
+                        "George Joestar",
+                        "Risotto Nero"
+                  ]
+            },
+            {
+                  "category": "Science: Computers",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+                  "correct_answer": "Neptune",
+                  "incorrect_answers": [
+                        "Enceladus",
+                        "Pollux",
+                        "Saturn"
+                  ]
+            },
+            {
+                  "category": "History",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+                  "correct_answer": "Hideki Tojo",
+                  "incorrect_answers": [
+                        "Michinomiya Hirohito",
+                        "Isoroku Yamamoto",
+                        "Fumimaro Konoe"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
+                  "correct_answer": "Nolan North",
+                  "incorrect_answers": [
+                        "John DiMaggio",
+                        "Mark Hamill",
+                        " Troy Baker"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
+                  "correct_answer": "Bow ",
+                  "incorrect_answers": [
+                        "Hammer",
+                        "Heavy Bowgun",
+                        "Light Bowgun"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Comics",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+                  "correct_answer": "Elias Acorn",
+                  "incorrect_answers": [
+                        "Maximillian Acorn",
+                        "Alexis Acorn",
+                        "Frederick Acorn"
+                  ]
+            },
+            {
+                  "category": "History",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "Which Nation DID NOT have a Colony in Modern-day America?",
+                  "correct_answer": "Portugal",
+                  "incorrect_answers": [
+                        "Spain",
+                        "Sweden",
+                        "Netherlands"
+                  ]
+            },
+            {
+                  "category": "Celebrities",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Gwyneth Paltrow has a daughter named...?",
+                  "correct_answer": "Apple",
+                  "incorrect_answers": [
+                        "Lily",
+                        "French",
+                        "Dakota"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Cartoon & Animations",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+                  "correct_answer": "Myrtenaster",
+                  "incorrect_answers": [
+                        "Gambol Shroud",
+                        "Crescent Rose",
+                        "Ember Celica"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+                  "correct_answer": "Eye of Cthulhu",
+                  "incorrect_answers": [
+                        "Plantera",
+                        "Skeletron Prime",
+                        "The Destroyer"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Film",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+                  "correct_answer": "Always wear a shirt",
+                  "incorrect_answers": [
+                        "You do not talk about FIGHT CLUB",
+                        "Only two guys to a fight",
+                        "Fights will go on as long as they have to"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Music",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+                  "correct_answer": "Amor Gitano",
+                  "incorrect_answers": [
+                        "La ultima vez",
+                        "Rocket",
+                        "Hasta Dondes Estes"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Music",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+                  "correct_answer": "Say You Will",
+                  "incorrect_answers": [
+                        "Welcome to Heartbreak",
+                        "Street Lights",
+                        "Heartless"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Television",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "What is the name of the &quot;Flash&quot; and &quot;Arrow&quot; spinoff featuring a team of characters that have appeared on both shows?",
+                  "correct_answer": "Legends of Tomorrow",
+                  "incorrect_answers": [
+                        "Heroes of Tomorrow",
+                        "The Justice Society of America",
+                        "The Justice Society"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which franchise was NOT featured in the 2015 video game &quot;Lego Dimensions&quot;?",
+                  "correct_answer": "Breaking Bad",
+                  "incorrect_answers": [
+                        "Portal",
+                        "Doctor Who",
+                        "Back to the Future"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Which character from the Mega Man series made a small cameo on Volt Catfish&#039;s introduction scene in CD versions of Mega Man X3?",
+                  "correct_answer": "Auto",
+                  "incorrect_answers": [
+                        "Eddie",
+                        "Tango",
+                        "Rush"
+                  ]
+            },
+            {
+                  "category": "Geography",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Which of these cities has a 4&deg; East longitude. ",
+                  "correct_answer": "Amsterdam",
+                  "incorrect_answers": [
+                        "Rio de Janero",
+                        "Toronto",
+                        "Hong Kong"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "Which &quot;Perk-A-Cola&quot; in &quot;Call Of Duty: Zombies&quot; was &quot;reworked&quot; in &quot;Call of Duty: Black Ops II&quot;?",
+                  "correct_answer": "Double Tap Root Beer",
+                  "incorrect_answers": [
+                        "Who&#039;s Who",
+                        "Juggernog",
+                        "Mule Kick"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Music",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+                  "correct_answer": "Blondie",
+                  "incorrect_answers": [
+                        "Paramore",
+                        "Coldplay",
+                        "The Police"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+                  "correct_answer": "Bloodstar",
+                  "incorrect_answers": [
+                        "Sachs",
+                        "Dracuul",
+                        "Alucard"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "What Pok&eacute;mon&#039;s Base Stat Total does not change when it evolves?",
+                  "correct_answer": "Scyther",
+                  "incorrect_answers": [
+                        "Pikachu",
+                        "Sneasel",
+                        "Larvesta"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Video Games",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "What vault in the video game &quot;Fallout 3&quot; is the home of multiple clones named Gary?",
+                  "correct_answer": "Vault 108",
+                  "incorrect_answers": [
+                        "Vault 101",
+                        "Vault 87",
+                        "Vault 21"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Music",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Chino Moreno is the lead singer of which alternative metal band?",
+                  "correct_answer": "Deftones",
+                  "incorrect_answers": [
+                        "Tool",
+                        "Korn",
+                        "Type O Negative"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Music",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "&#039;74&ndash;&#039;75 is a 1993 single from the album Ring by what American band?",
+                  "correct_answer": "The Connells",
+                  "incorrect_answers": [
+                        "R.E.M.",
+                        "The Ocean Blue",
+                        "The Bangles"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Board Games",
+                  "type": "multiple",
+                  "difficulty": "easy",
+                  "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+                  "correct_answer": "20",
+                  "incorrect_answers": [
+                        "30",
+                        "15",
+                        "25"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Japanese Anime & Manga",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "Who is the main character in One Piece?",
+                  "correct_answer": "Luffy",
+                  "incorrect_answers": [
+                        "Shanks",
+                        "Zoro",
+                        "Smoker"
+                  ]
+            },
+            {
+                  "category": "Science & Nature",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+                  "correct_answer": "Dunning-Kruger effect",
+                  "incorrect_answers": [
+                        "Meyers-Briggs effect",
+                        "M&uuml;ller-Lyer effect",
+                        "Freud-Hall effect"
+                  ]
+            },
+            {
+                  "category": "Science & Nature",
+                  "type": "multiple",
+                  "difficulty": "hard",
+                  "question": "Which of the following is considered classical conditioning?",
+                  "correct_answer": "Pavlov&#039;s dog experiments",
+                  "incorrect_answers": [
+                        "Skinner box experiment",
+                        "Schr&ouml;dinger&#039;s cat experiment",
+                        "Harlow&rsquo;s monkey experiments"
+                  ]
+            },
+            {
+                  "category": "Science & Nature",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+                  "correct_answer": "C18H27NO3",
+                  "incorrect_answers": [
+                        "C21H23NO3",
+                        "C6H4Cl2",
+                        "C13H25NO4"
+                  ]
+            },
+            {
+                  "category": "Entertainment: Film",
+                  "type": "multiple",
+                  "difficulty": "medium",
+                  "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+                  "correct_answer": "Custard and Raspberry Sauce",
+                  "incorrect_answers": [
+                        "Strawberry Ice Cream",
+                        "Cherry Yogurt",
+                        "Raspberry Sorbet"
+                  ]
+            }
+      ]
+}

@@ -1,0 +1,27 @@
+
+ON-BOOT
+    - Init wifi
+    - init ESP-Now
+    - Report Status to Master
+    - init oDisplay
+    - init GameMode
+
+
+Game Flow
+  - wait for receivedMessage
+  - respond to gamepad input
+
+
+init displayMenu
+  - View
+    - Gamepad Id
+    - IP
+    - Mac
+    - Status
+    - Battery Power
+  - System
+    - Update Firmware
+      - init updateOTA
+    - chnage Wifi
+      - inti WiFiManager
+  - Exit To Game

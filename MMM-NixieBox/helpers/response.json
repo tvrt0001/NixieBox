@@ -1,0 +1,43 @@
+{
+  
+//    http://nixie.tivtronics.com:8282/api/module/NixieGame
+
+    "success": true,
+  "data": [
+    {
+      "index": "4",
+      "identifier": "module_4_NixieGame",
+      "name": "NixieGame",
+      "path": "modules/NixieGame/",
+      "file": "NixieGame.js",
+      "position": "top_left",
+      "configDeepMerge": false,
+      "config": {
+        "multipleChoice": "Yes",
+        "useHeader": true,
+        "header": "Nixie's Trivia Game",
+        "maxWidth": "100%",
+        "rotateInterval": 30000,
+        "animationSpeed": 3000,
+        "initialLoadDelay": 4250,
+        "retryDelay": 2500,
+        "updateInterval": 1500000
+      },
+      "classes": "NixieGame",
+      "hidden": false,
+      "lockStrings": []
+    }
+  ]
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>TypeError: Cannot read property &#39;sendresponse&#39; of undefined<br> &nbsp; &nbsp;at Class.answerModuleApi (/home/tomtiv/MagicMirror/modules/MMM-Remote-Control/API/api.js:405:36)<br> &nbsp; &nbsp;at expressRouter.route.get (/home/tomtiv/MagicMirror/modules/MMM-Remote-Control/API/api.js:269:22)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/tomtiv/MagicMirror/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/tomtiv/MagicMirror/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/tomtiv/MagicMirror/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/tomtiv/MagicMirror/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/tomtiv/MagicMirror/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at param (/home/tomtiv/MagicMirror/node_modules/express/lib/router/index.js:354:14)<br> &nbsp; &nbsp;at param (/home/tomtiv/MagicMirror/node_modules/express/lib/router/index.js:365:14)<br> &nbsp; &nbsp;at param (/home/tomtiv/MagicMirror/node_modules/express/lib/router/index.js:365:14)</pre>
+</body>
+</html>

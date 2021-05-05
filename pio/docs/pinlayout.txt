@@ -1,0 +1,20 @@
+
+
+//; 2.4 and 3.5 " TFT_LCD"
+//; | Display           | PIN | E32 | Function
+//; | ------------      | --- | --- | --------
+//; | 3.3               | 1 | 3.3 |
+//; | GND               | 2 | GND |
+//; | CS                | 3 | 15 | Chip Select(Active Low)
+//; | RST (SCLK)        | 4 | 4 |
+//; | DC (WR,RD)        | 5 | 2 | Data / Command register sel
+//; | MOSI (SDI)        | 6 | 23 | Serial data Master->Slave
+//; | SCLK (SCL,RS)     | 7 | 18 |
+//; | LED (BL)          | 8 | 17 |
+//; | MISO (SDO)        | 9 | 19 | Serial data Slave->Master
+//; | --- TOUCH ---     |---- | --- |-----------
+//; | T-CLK             | 10 | 34 |
+//; | T-CS              | 11 | 33 |
+//; | T-DIN             | 12 | |
+//; | T-OUT             | 13 | |
+//; | T-IRQ             | 14 | 2 |

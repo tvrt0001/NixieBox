@@ -1,0 +1,163 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+ 
+ .NixieGame .header{
+  color: white;               /* Header color. Default is white. */
+  text-align: center;           /* Align header text. (left, center, right) */
+}
+
+.NixieGame .category {
+    color: white;               /* Color the category. Default is white. */
+    text-align: right;           /* Align the category. (left, center, right) */
+    font-size: 60%
+}
+
+.NixieGame .difficulty {
+  color: white;               /* Color the difficulty. Default is white. */
+  text-align: right;           /* Align the difficulty. (left, center, right) */
+  font-size: 60%
+}
+
+.NixieGame .question {
+    color: white;            /* Color the question. Default is white. */
+    text-align: center;        /* Align the question. (left, center, right) */
+    font-weight: bolder;
+}
+
+.NixieGame .answer {
+  color: white; /* Color possible answer1. Default is white. */
+  text-align: left; /* Align possible answer1. (left, center, right) */
+}
+
+.NixieGame .answer1 {
+    color: white; /* Color possible answer1. Default is white. */
+    text-align: left; /* Align possible answer1. (left, center, right) */
+}
+
+.NixieGame .answer2 {
+  color: white;               /* Color possible answer2. Default is white. */
+  text-align: left;           /* Align possible answer2. (left, center, right) */
+}
+
+.NixieGame .answer3 {
+    color: white; /* Color possible answer3. Default is white. */
+    text-align: left; /* Align possible answer3. (left, center, right) */
+}
+
+.NixieGame .answer4 {
+    color: white; /* Color possible answer4. Default is white. */
+    text-align: left; /* Align possible answer4. (left, center, right) */
+}
+
+.NixieGame .correct {
+  color: green;               /* Color the correct answer. Default is white. */
+  text-align: center;           /* Align the correct question. (left, center, right) */
+}
+
+/* 
+.NixieGame .rightAnswer {
+  color: blue;          
+  text-align: center;         
+  -webkit-transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out; 
+}
+*/ 
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+/*
+body {
+ background: #111;
+ font-family: "Open Sans",  Impact;
+}
+*/
+
+
+
+.blurEffect {
+  /* 
+  text-align: center;
+  font-size: 6.5em;
+  color: #fff;
+  letter-spacing: -7px;
+  font-weight: 700;
+ */  
+  text-transform: uppercase;
+  animation: blur .75s ease-out infinite;
+  text-shadow: 0px 0px 5px #fff, 0px 0px 7px #fff;
+}
+
+@keyframes blur {
+  from {
+    text-shadow:0px 0px 10px #fff,
+      0px 0px 10px #fff, 
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 25px #fff,
+      0px 0px 50px #fff,
+      0px 0px 50px #fff,
+      0px 0px 50px #7B96B8,
+      0px 0px 150px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px 10px 100px #7B96B8,
+      0px -10px 100px #7B96B8,
+      0px -10px 100px #7B96B8;
+  }
+}
+
+
+/* Particle Effect */
+
+/*
+body{
+  margin:0;
+  overflow: hidden;
+  font-size:0;
+}
+*/
+
+canvas{
+  background: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+input{
+  width: 250px;
+  height: 40px;
+  line-height: 40px;
+  position: absolute;
+  bottom: 35px;
+  left: calc(50% - 125px);
+  background: none;
+  color: white;
+  font-size: 30px;
+  font-family: arial;
+  text-align: center;
+  border: 1px solid white;
+  background: rgba(255,255,255,0.2);
+}
+
+p{
+position: fixed;
+left: 0;
+bottom:5px;
+color: #fff;
+z-index:10;
+font-size:16px;
+font-family: Helvetica, Verdana, sans-serif;
+opacity:0.5;
+width: 100%;
+text-align: center;
+margin: 0;
+}

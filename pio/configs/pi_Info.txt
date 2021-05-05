@@ -1,0 +1,31 @@
+
+#install
+sudo bash -c  "$(curl -sL https://raw.githubusercontent.com/sdetweil/MagicMirror_scripts/master/raspberry.sh)"
+
+# update MM test
+bash -c  "$(curl -sL https://raw.githubusercontent.com/sdetweil/MagicMirror_scripts/master/upgrade-script.sh)"
+
+# update MM apply
+bash -c  "$(curl -sL https://raw.githubusercontent.com/sdetweil/MagicMirror_scripts/master/upgrade-script.sh)" apply
+
+# disable screen saver and boot to mm
+bash -c "$(curl -sL https://raw.githubusercontent.com/sdetweil/MagicMirror_scripts/master/screensaveroff.sh)"
+
+# fix u ppm2
+bash -c "$(curl -sL https://raw.githubusercontent.com/sdetweil/MagicMirror_scripts/master/fixuppm2.sh)"
+
+
+# install mmpm 
+sudo apt install libffi-dev nginx-full -y
+python3 -m pip install --upgrade --no-cache-dir mmpm
+mmpm --guided-setup
+echo 'export PATH="$PATH:$HOME/.local/bin"' >> ~/.bashrc
+
+$ upgrade mmpm
+python3 -m pip install --upgrade --no-cache-dir mmpm
+
+# Or manually enable the features yourself
+$ mmpm --migrate # if you previously created "External Module Sources" in MMPM version 1.x
+$ mmpm install --gui # installs the MMPM web interface
+$ mmpm install --as-module  # required if you want to hide/show MagicMirror modules
+$ mmpm install --autocomplete # installs the CLI auto-completion feature
